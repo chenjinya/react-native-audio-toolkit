@@ -2,6 +2,14 @@
 
 [![npm version](https://badge.fury.io/js/react-native-audio-toolkit.svg)](https://badge.fury.io/js/react-native-audio-toolkit)
 
+Changelog
+------------------------------
+
+* 兼容了Android lib库的link，把Lib里面的数据复制到了外面一层目录  [diff](https://github.com/chenjinya/react-native-audio-toolkit/commit/a10af0ebf4f134bba56bfd0146aff434ce39bd34)
+
+Description
+------------------------------
+
 This is a cross-platform (Android and iOS) audio library for React Native.
 Both audio playback and recording is supported. In addition to basic
 functionality, many useful features are implemented such as seeking,
